@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangjing0
-- 👀 I’m interested in ```artificial intelligence and human stupidity```
+- 👀 I’m interested in ```Artificial intelligence and Human stupidity```
 <!-- - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
